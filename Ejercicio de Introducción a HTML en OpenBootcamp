@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!-- Este es mi primer comentario de dos lineas
+        Aprendiendo a documentar mi código en OpenBootcamp -->
+        <h4>Lista desordenada de videos de YouTube</h4>
+            <ul>
+                <li><a href="https://www.youtube.com/watch?v=tJVxMDNWOZw">Time Adventure. — Rebecca Sugar</a></li>
+                <li><a href="https://www.youtube.com/watch?v=RAYhIFbEWOM">Todo se Queda | Hora de Aventura</a></li>
+                <li><a href="https://www.youtube.com/watch?v=CKtUVkT0kMY&t=35s">Tend</a></li>
+            </ul>
+    </body>
+</html>
