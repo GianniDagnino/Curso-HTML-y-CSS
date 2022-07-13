@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Multimedia con html</title>
+    </head>
+    <body>
+        <div>
+            <h1>Aprendiendo a utilizar imágenes</h1>
+            <img src="coffee.png" alt="Logo html5" width="100" height="100"/>
+        </div>
+        <div>
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+            <video width="250" height="250" controls autoplay muted loop>
+                <source src="Todo se Queda - Hora de Aventura - Letra.mp4" type="video/mp4"/>
+            </video>
+        </div>
+        <div>
+            <h1>Aprendiendo a utilizar los audios</h1>
+            <audio controls autoplay loop>
+                <source src="Todo se Queda - Hora de Aventura - Letra.mp3" type="audio/mp3"/>
+            </audio>
+        </div>
+    </body>
+</html>
